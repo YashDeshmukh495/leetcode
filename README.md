@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0018-4sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
