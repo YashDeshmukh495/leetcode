@@ -6,6 +6,7 @@ public:
         while(x>0){
             rem=x%10;
             x=x/10;
+            
             if(ans>INT_MAX/10 ||ans<INT_MIN/10){
                 return false;
             }
