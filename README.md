@@ -25,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/YashDeshmukh495/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/YashDeshmukh495/leetcode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/YashDeshmukh495/leetcode/tree/master/0292-nim-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashDeshmukh495/leetcode/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/YashDeshmukh495/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/YashDeshmukh495/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
