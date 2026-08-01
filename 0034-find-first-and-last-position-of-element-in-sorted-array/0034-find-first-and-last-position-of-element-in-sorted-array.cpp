@@ -13,6 +13,7 @@ public:
                 first=mid;
                 end=mid-1;
             }
+            
             else if(nums[mid]< target){
                 start=mid+1;
 
@@ -21,7 +22,7 @@ public:
                 end= mid-1;
             }
         }
-        // last 
+        //last
         start=0,end=n-1;
           while(start<=end){
             int mid=start+(end-start)/2;
