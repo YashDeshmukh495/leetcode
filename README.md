@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashDeshmukh495/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,10 +17,12 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -27,11 +30,13 @@
 | [0009-palindrome-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/YashDeshmukh495/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/YashDeshmukh495/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/YashDeshmukh495/leetcode/tree/master/0292-nim-game) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/YashDeshmukh495/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/YashDeshmukh495/leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -44,6 +49,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashDeshmukh495/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashDeshmukh495/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 ## Brainteaser
 |  |
 | ------- |
