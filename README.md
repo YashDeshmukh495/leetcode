@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashDeshmukh495/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0035-search-insert-position](https://github.com/YashDeshmukh495/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashDeshmukh495/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/YashDeshmukh495/leetcode/tree/master/0292-nim-game) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
