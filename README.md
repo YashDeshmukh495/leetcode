@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/YashDeshmukh495/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/YashDeshmukh495/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0069-sqrtx](https://github.com/YashDeshmukh495/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/YashDeshmukh495/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Brainteaser
 |  |
 | ------- |
