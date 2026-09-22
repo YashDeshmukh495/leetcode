@@ -31,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/YashDeshmukh495/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +96,5 @@
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/YashDeshmukh495/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/YashDeshmukh495/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
