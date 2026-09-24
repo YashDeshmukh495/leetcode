@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/YashDeshmukh495/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/YashDeshmukh495/leetcode/tree/master/0409-longest-palindrome) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/YashDeshmukh495/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/YashDeshmukh495/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/YashDeshmukh495/leetcode/tree/master/0231-power-of-two) |
@@ -100,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YashDeshmukh495/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/YashDeshmukh495/leetcode/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/YashDeshmukh495/leetcode/tree/master/1108-defanging-an-ip-address) |
