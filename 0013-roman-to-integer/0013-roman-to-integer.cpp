@@ -37,7 +37,7 @@ int num(char c){
            
             index++;
         }
-         sum+=num(s[index]);
+         sum+=num(s[s.size()-1]);
         return sum;
 
 
