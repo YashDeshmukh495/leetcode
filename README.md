@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/YashDeshmukh495/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [1859-sorting-the-sentence](https://github.com/YashDeshmukh495/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/YashDeshmukh495/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -34,6 +35,7 @@
 | [0001-two-sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/YashDeshmukh495/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/YashDeshmukh495/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/YashDeshmukh495/leetcode/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YashDeshmukh495/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/YashDeshmukh495/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/YashDeshmukh495/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/YashDeshmukh495/leetcode/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/YashDeshmukh495/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YashDeshmukh495/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
