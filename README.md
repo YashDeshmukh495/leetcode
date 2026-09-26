@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/YashDeshmukh495/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashDeshmukh495/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/YashDeshmukh495/leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/YashDeshmukh495/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/YashDeshmukh495/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -21,6 +22,7 @@
 | [0018-4sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/YashDeshmukh495/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashDeshmukh495/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/YashDeshmukh495/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
