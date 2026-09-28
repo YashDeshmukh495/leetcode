@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashDeshmukh495/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/YashDeshmukh495/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/YashDeshmukh495/leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/YashDeshmukh495/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashDeshmukh495/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/YashDeshmukh495/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/YashDeshmukh495/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/YashDeshmukh495/leetcode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/YashDeshmukh495/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/YashDeshmukh495/leetcode/tree/master/0409-longest-palindrome) |
