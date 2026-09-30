@@ -20,6 +20,7 @@
 | [0875-koko-eating-bananas](https://github.com/YashDeshmukh495/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/YashDeshmukh495/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/YashDeshmukh495/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/YashDeshmukh495/leetcode/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YashDeshmukh495/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2965-find-missing-and-repeated-values](https://github.com/YashDeshmukh495/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0231-power-of-two](https://github.com/YashDeshmukh495/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/YashDeshmukh495/leetcode/tree/master/0292-nim-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/YashDeshmukh495/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/YashDeshmukh495/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/YashDeshmukh495/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
