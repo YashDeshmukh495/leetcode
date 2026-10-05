@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashDeshmukh495/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YashDeshmukh495/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/YashDeshmukh495/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@
 | [0042-trapping-rain-water](https://github.com/YashDeshmukh495/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashDeshmukh495/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/YashDeshmukh495/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -68,6 +70,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/YashDeshmukh495/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/YashDeshmukh495/leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -84,6 +87,7 @@
 | [0074-search-a-2d-matrix](https://github.com/YashDeshmukh495/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashDeshmukh495/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashDeshmukh495/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/YashDeshmukh495/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/YashDeshmukh495/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -139,4 +143,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashDeshmukh495/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
