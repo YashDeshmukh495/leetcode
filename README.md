@@ -76,6 +76,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/YashDeshmukh495/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/YashDeshmukh495/leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/YashDeshmukh495/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
