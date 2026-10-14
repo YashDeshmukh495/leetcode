@@ -56,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YashDeshmukh495/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YashDeshmukh495/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YashDeshmukh495/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/YashDeshmukh495/leetcode/tree/master/0012-integer-to-roman) |
@@ -76,6 +77,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YashDeshmukh495/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/YashDeshmukh495/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/YashDeshmukh495/leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
@@ -155,6 +157,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YashDeshmukh495/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/YashDeshmukh495/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YashDeshmukh495/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
